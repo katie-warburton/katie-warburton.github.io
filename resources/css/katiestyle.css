@@ -29,6 +29,7 @@ nav ul{
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
+    text-align: left;
 }
 
 nav ul li{
@@ -85,6 +86,17 @@ footer{
 
 }
 
+#misc{
+    grid-column-start: sidebar;
+    grid-column-end: side-r;
+    grid-row-start: top-half;
+    grid-row-end: bototm-half;
+    height: auto;
+    text-align: left;
+    vertical-align: top;
+}
+
+
 #sidebar{
     grid-column-start: sidebar;
     grid-row-start: top-half;
@@ -115,7 +127,7 @@ footer{
 }
 
 header{
-    text-align: left;
+    text-align: inherit;
     background-color: #fff;
     margin-bottom: 25px;
     vertical-align: top;
