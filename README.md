@@ -1,4 +1,4 @@
 # katie-warburton.github.io
-Repository to host my website: [katiewarburton.com](katiewarburton.com)
+Repository to host my website: [katiewarburton.com](https://katiewarburton.com/)
 
-Last updated: March 2024
+Last updated: May 2025
