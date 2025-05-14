@@ -4,14 +4,15 @@ div.gallery {
   border: 2px solid white;
 }
 
-div.gallery:hover {
-  border: 2px solid #5d9c33;
-}
-
 div.gallery img {
   width: 100%;
   height: auto;
 }
+
+div.gallery img:hover {
+  border: 2px solid #5d9c33;
+}
+
 
 div.desc {
   padding: 15px;
