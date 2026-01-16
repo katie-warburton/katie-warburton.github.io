@@ -55,10 +55,6 @@ nav ul {
 .nav-right {
     gap: 14px;
 }
-/* nav ul li:last-child{
-    justify-content: left;
-    margin-left: auto;
-} */
 
 
 nav a:link{
